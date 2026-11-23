@@ -5,7 +5,8 @@
   </picture>
 </p>
 
-<p align="center">Small, polished apps for macOS and the web.<br>Imagined by me, built fast with AI, finished by hand.</p>
+<p align="center">Small, polished apps for macOS and the web.<br>Built with AI, finished by hand.</p>
+<p align="center"><a href="https://khalidkhalil.dev"><b>khalidkhalil.dev</b></a></p>
 
 <br>
 
@@ -18,7 +19,7 @@
       <b>Thock</b> &nbsp;<code>macOS</code> <code>Free</code> <code>v1.0</code><br>
       Mechanical keyboard sounds for your MacBook. It feels how hard you type through the motion sensor:
       16 sound packs, stereo by key position, and a boom when you slam Enter.<br>
-      <a href="https://github.com/kakhaliel/Thock-Releases/releases/latest/download/Thock.dmg"><b>⬇ Download</b></a> &nbsp;·&nbsp; <a href="https://github.com/kakhaliel/Thock-Releases">More</a><br>
+      <a href="https://github.com/kakhaliel/Thock-Releases/releases/latest/download/Thock.dmg"><b>⬇ Download</b></a> &nbsp;·&nbsp; <a href="https://khalidkhalil.dev/apps/thock">Try it with sound</a><br>
       <sub>macOS 13 or later · Swift · SwiftUI · Core Motion</sub>
     </td>
   </tr>
