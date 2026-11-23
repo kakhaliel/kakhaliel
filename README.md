@@ -5,7 +5,6 @@
   </picture>
 </p>
 
-<h3 align="center">I make the apps I wish existed.</h3>
 <p align="center">Small, polished apps for macOS and the web.<br>Imagined by me, built fast with AI, finished by hand.</p>
 
 <br>
