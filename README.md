@@ -16,11 +16,21 @@
   <tr>
     <td width="110" align="center"><img src="assets/thock.png" width="88" alt="Thock icon"></td>
     <td>
-      <b>Thock</b> &nbsp;<code>macOS</code> <code>Free</code> <code>v1.0</code><br>
+      <b>Thock</b> &nbsp;<code>macOS</code> <code>Free</code> <code>v1.1</code><br>
       Mechanical keyboard sounds for your MacBook. It feels how hard you type through the motion sensor:
       16 sound packs, stereo by key position, and a boom when you slam Enter.<br>
       <a href="https://github.com/kakhaliel/Thock-Releases/releases/latest/download/Thock.dmg"><b>⬇ Download</b></a> &nbsp;·&nbsp; <a href="https://khalidkhalil.dev/apps/thock">Try it with sound</a><br>
       <sub>macOS 13 or later · Swift · SwiftUI · Core Motion</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="110" align="center"><img src="assets/overlook.png" width="88" alt="Overlook icon"></td>
+    <td>
+      <b>Overlook</b> &nbsp;<code>macOS</code> <code>Free</code> <code>v0.1</code><br>
+      Your MacBook notch, alive. Music controls, a timer, your calendar, clipboard history and a shelf for files,
+      plus little pixel animations when you plug in the charger, connect AirPods or hit Caps Lock.<br>
+      <a href="https://github.com/kakhaliel/Overlook-Releases/releases/latest/download/Overlook.dmg"><b>⬇ Download</b></a> &nbsp;·&nbsp; <a href="https://github.com/kakhaliel/Overlook-Releases">See what it does</a><br>
+      <sub>macOS 14 or later · Swift · SwiftUI</sub>
     </td>
   </tr>
   <tr>
