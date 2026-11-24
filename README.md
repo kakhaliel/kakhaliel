@@ -29,7 +29,7 @@
       <b>Overlook</b> &nbsp;<code>macOS</code> <code>Free</code> <code>v0.1</code><br>
       Your MacBook notch, alive. Music controls, a timer, your calendar, clipboard history and a shelf for files,
       plus little pixel animations when you plug in the charger, connect AirPods or hit Caps Lock.<br>
-      <a href="https://github.com/kakhaliel/Overlook-Releases/releases/latest/download/Overlook.dmg"><b>⬇ Download</b></a> &nbsp;·&nbsp; <a href="https://github.com/kakhaliel/Overlook-Releases">See what it does</a><br>
+      <a href="https://github.com/kakhaliel/Overlook-Releases/releases/latest/download/Overlook.dmg"><b>⬇ Download</b></a> &nbsp;·&nbsp; <a href="https://khalidkhalil.dev/apps/overlook">See what it does</a><br>
       <sub>macOS 14 or later · Swift · SwiftUI</sub>
     </td>
   </tr>
